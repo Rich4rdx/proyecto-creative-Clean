@@ -110,7 +110,7 @@ button{
 }
 
 .section3{
-    background-image: url(/assets/bgDown.png);
+    background-image: url(./assets/bgDown.png);
     background-position-x: center;
     background-size: cover;
     display: flex;
