@@ -2,7 +2,7 @@ header{
     color: rgb(255, 137, 64);
     font-size: 50px;
     justify-content: center;
-    background-image: url(/assets/bgHeader.png);
+    background-image: url(../assets/bgHeader.png);
     background-position-x: center;
     height: 800px;
     margin-top: -70px;
@@ -110,7 +110,7 @@ button{
 }
 
 .section3{
-    background-image: url(./assets/bgDown.png);
+    background-image: url(../assets/bgDown.png);
     background-position-x: center;
     background-size: cover;
     display: flex;
